@@ -1,3 +1,6 @@
+# Forked to create Android Launcher with TC capability
+Please note: Additional code added to this repo may not follow coding standards.
+
 # About TrackerControl
 
 [![Crowdin](https://badges.crowdin.net/trackercontrol/localized.svg)](https://crowdin.com/project/trackercontrol)
