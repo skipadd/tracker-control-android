@@ -1,4 +1,4 @@
-# Forked to create Android Launcher with TC capability
+
 Please note: Additional code added to this repo may not follow coding standards.
 
 # About TrackerControl
